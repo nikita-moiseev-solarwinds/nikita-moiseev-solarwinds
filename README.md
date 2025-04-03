@@ -1,11 +1,4 @@
 <div>
-  <div width="100%">
-    <img align="left" src="https://github.com/nikita-moiseev-solarwinds/nikita-moiseev-solarwinds/blob/main/metrics.classic.svg" width="45%" alt="Introduction">
-    <img align="right" src="https://github.com/nikita-moiseev-solarwinds/nikita-moiseev-solarwinds/blob/main/metrics.plugin.isocalendar.svg" width="45%" alt="Contribution calendar">
-  </div>
-
-  <br><br><br><br><br><br><br><br>
-
   <div>
     <h3 align="left">Connect with me</h3>
     <p align="left">
